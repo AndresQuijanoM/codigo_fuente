@@ -1,2 +1,14 @@
-# codigo_fuente
-Segunda entrega del proyecto que innovará en el campo de la educación abriendo las puertas del mundo de la programación a los magos del futuro
+Nombre del proyecto: PLAYTHON!
+Grupo #8
+Integrantes:
+1. Andres Felipe Quijano Montenegro
+2. Alejandro Machecha Arango
+3. Marcos Alfredo Fierro Sarria
+
+Objetivo: Innovar en el campo de la educación orientada al mundo digital, abriendo las puertas de la programación a niños  niñas
+
+Información básica para ejecutar el programa:
+
+- El programa necesita las siguientes librerías: Tkinter, Random, Xlrd, Time, Turtle, Os, Keyword
+  Ejecutar los siguientes comandos para instalar las librerías:
+  pip install xlrd 
